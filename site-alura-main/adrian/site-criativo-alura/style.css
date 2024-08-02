@@ -15,13 +15,13 @@ header {
 }
 
 .cabecalho-imagem{
-    width;20%;
+    width: 20%;
 }
 
 .cabecalho-lista-item{
     display:inline-block;
     margin:o 16 px;
-    fomt: size 24px 0;
+    font: size 24px 0;
 }
 
 .cabecalho-imagem{
@@ -51,9 +51,13 @@ escola-div-conteudo{
     padding:24px0;
 }
 .estudante-imagem{
-    width:120px;
+    width:199px;
 }
 
+.estudante-div{
+    text-align: center;
+    padding: 16px;
+}
 
 
 
